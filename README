@@ -1,0 +1,7 @@
+A dead-simple Twilio app with Sinatra and Heroku.
+
+To deploy to Heroku:
+
+1. Clone the app
+2. heroku create
+3. git push heroku master
